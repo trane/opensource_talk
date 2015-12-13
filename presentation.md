@@ -92,7 +92,37 @@
 
 ---
 
-### code that belongs to everyone
+## code that belongs to everyone
+
+---
+
+## code that can be used, read, and modified freely
+
+---
+
+# oss licenses
+
+Apache License 2.0
+BSD 3-Clause "New" or "Revised" license
+BSD 2-Clause "Simplified" or "FreeBSD" license
+GNU General Public License (GPL)
+GNU Library or "Lesser" General Public License (LGPL)
+MIT license
+Mozilla Public License 2.0
+Common Development and Distribution License
+Eclipse Public License
+
+---
+
+# different than closed source
+
+---
+
+## closed or open - you can't infer
+### quality
+### security
+### scalability
+### maintainability
 
 ---
 
@@ -128,7 +158,7 @@
 
 ---
 
-## OSS i use at work
+## some oss i use at work
 
 ---
 
@@ -147,23 +177,55 @@
 
 ---
 
-# [motivation]
+# motivations
 
 ---
 
 # power and fear
+
+![](sadness.jpg)
 
 ^ for all of our history people have been using the access to knowledge as means to oppress and keep power
 
 ---
 
 ## lone wolf
-## (aka heroine)
+## (aka hero)
 
 ![150%,right](willy_on_your_own.jpg)
 
 ^ they have you believe that they are heroes or god-like in their abilities,
 like they accomplished it all on their own
+
+---
+
+# code is like infrastructure
+
+![](infrastructure.jpg)
+
+^ just like the freeway system and water ways, it enables more innovation and
+more opportunity
+
+---
+
+# if it's useful to you, it's probably useful to someone else
+
+![200%, Right](makes_sense.png)
+
+---
+
+# giving back
+![300%](sharing-is-caring.jpg)
+
+---
+
+## don't ask
+### "should i make this open source?"
+
+---
+
+## instead ask
+### "why should i not make this open source?"
 
 ---
 
