@@ -1,7 +1,7 @@
 # open source
 
 ### icanhazcommunity?
-#### Andrew Kuhnhausen - Hackbright Dec 14th 2015
+#### andrew kuhnhausen - hackbright dec 14th 2015
 ##### @kuhnhausen | github.com/trane | blog.errstr.com
 
 ---
@@ -10,7 +10,7 @@
 
 ---
 
-## wat's an open source?
+## what's an open source?
 
 ---
 
@@ -18,15 +18,19 @@
 
 ---
 
-## how do i open source?
+## how to open source?
 
 ---
 
-## how do you open source?
+## do stuff for realzies!
 
 ---
 
 ## !(!q || !a)
+
+---
+
+# /me
 
 ---
 
@@ -64,9 +68,10 @@
 ![](sphinx.jpg)
 
 * spent most of my life pursuing music as a career
-* joined Twitter a few months ago because I was giving a talk at their conference
-* joined Facebook 3 week ago, 'cause i'm not telling
-* my cat is amazing, his name is Sphinx, and he sounds like a new york taxi cab driver when he meows.
+* morei no brasil, falo português
+* my cat is amazing
+* his name is sphinx
+* he sounds like a new york taxi cab driver when he meows
 
 ---
 
@@ -78,25 +83,28 @@
 
 ---
 
-
 # /me
 
 ![](blake.jpg)
 
-## ...sorry Blake, i'm just so proud!
+## ...sorry Blake, i'm just so proud! :) :) :)
 
 ---
 
-# wat's an open source
-### (OSS o.open s.ource s.oftware)
+# what?
+### (OSS o.pen s.ource s.oftware)
 
 ---
 
-## code that belongs to everyone
+## belongs to everyone
+
+![200%](unicorn_flying.jpg)
 
 ---
 
-## code that can be used, read, and modified freely
+## be used, read, and modified freely
+
+![](unicorn_tag.jpg)
 
 ---
 
@@ -112,9 +120,13 @@ Mozilla Public License 2.0
 Common Development and Distribution License
 Eclipse Public License
 
+![](unicorn_poop.jpg)
+
 ---
 
 # different than closed source
+
+![](unicorn_rainbow.jpg)
 
 ---
 
@@ -123,6 +135,8 @@ Eclipse Public License
 ### security
 ### scalability
 ### maintainability
+
+![](unicorn_poop_pile.jpg)
 
 ---
 
@@ -147,14 +161,29 @@ Eclipse Public License
 ---
 
 # languages
-## python, scala, ruby, perl, javascript, racket
+## python, scala, ruby, javascript
 ## ... and more
 ![](python.jpg)
 ![](scala.png)
 ![](ruby.jpg)
-![](perl.jpg)
 ![](ecma.png)
-![](racket.jpg)
+
+^ technically, javascript is not open source, but implementations like v8 and
+spidermonkey are and the ecmascript is really the language specification
+
+---
+
+# languages
+## python, scala, ruby, javascript
+## ... and more
+![](python.jpg)
+![](scala.png)
+![](ruby.jpg)
+![](ecma.png)
+
+technically it's not javascript, it's ecmascript.
+and ecmascript is actually an open standard, not code
+but, javascript engines like V8 and SpiderMonkey are open source!
 
 ---
 
@@ -173,15 +202,15 @@ Eclipse Public License
 ---
 
 # frameworks and os
-## linux, nixops, chef, jenkins, finagle, sinatra, sidekiq, storm
+## linux, nixops, openssl, gerrit, nvim, chef, jenkins, finagle, sinatra, sidekiq, storm
 
 ---
 
-# motivations
+# why?
 
 ---
 
-# power and fear
+## power and fear
 
 ![](sadness.jpg)
 
@@ -199,7 +228,7 @@ like they accomplished it all on their own
 
 ---
 
-# code is like infrastructure
+## code is infrastructure
 
 ![](infrastructure.jpg)
 
@@ -208,14 +237,55 @@ more opportunity
 
 ---
 
-# if it's useful to you, it's probably useful to someone else
+## giving back
+![300%](sharing-is-caring.jpg)
 
-![200%, Right](makes_sense.png)
+^ when you added a feature or fixed something, don't keep it to yourself - give
+it back
+^ i'm sure many of you modified a library to allow you to move forward with
+your project, did you give it back to the original author of the library?
 
 ---
 
-# giving back
-![300%](sharing-is-caring.jpg)
+## if it's useful to you, it's probably useful to someone else
+
+![200%, Right](makes_sense.png)
+
+^ when you write something, make it available - even if you feel it's silly or
+trivial -- who knows who will find it useful
+
+---
+
+# how?
+## (contributing)
+
+---
+
+* blog and do code review
+* write bug reports or fix the bugs
+* implement features
+* write and update documentation
+* improve tests
+* ask questions in irc or gitter
+* attend/host meetups and conferences
+* encourage coworkers and friends
+
+---
+
+## my first open source contribution
+
+![70%, Right](first_bug_report.png)
+
+---
+
+## my code contributions over the last year
+
+![80%, Left](contributions.png)
+
+---
+
+# how?
+## (owning)
 
 ---
 
@@ -229,17 +299,42 @@ more opportunity
 
 ---
 
-# how do i contribute
+## make your code public
+### (recommend github)
 
 ---
 
-## my first open source contribution
-
-![70%, Right](first_bug_report.png)
+## add an oss license
+### (recommend mit)
 
 ---
 
-# Thank you
+## make sure your README is good
+### (look at other well-regarded libraries)
+
+---
+
+## include a code of conduct
+### (use a community one)
+
+---
+
+## set up your chat
+### (gitter and/or irc)
+
+---
+
+## announce it
+### (twitter is great for this)
+
+---
+
+## keep working at it
+### (give talks, sell it, use it)
+
+---
+
+# obrigado
 
 ### @kuhnhausen | github.com/trane | blog.errstr.com
 
