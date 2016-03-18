@@ -1,7 +1,7 @@
 # open source
 
 ### icanhazcommunity?
-#### andrew kuhnhausen - hackbright dec 14th 2015
+#### andrew kuhnhausen - hackbright mar 18th 2016
 ##### @kuhnhausen | github.com/trane | blog.errstr.com
 
 ---
@@ -72,22 +72,6 @@
 * my cat is amazing
 * his name is sphinx
 * he sounds like a new york taxi cab driver when he meows
-
----
-
-# /me
-
-![](blake.jpg)
-
-## ...and i'm one of Blake's mentors
-
----
-
-# /me
-
-![](blake.jpg)
-
-## ...sorry Blake, i'm just so proud! :) :) :)
 
 ---
 
@@ -331,6 +315,70 @@ trivial -- who knows who will find it useful
 
 ## keep working at it
 ### (give talks, sell it, use it)
+
+---
+
+# time to try
+
+---
+
+# look at the issue backlog
+
+---
+
+# fork it
+### https://github.com/trane/thirteeneer
+
+---
+
+# clone it
+### git clone https://github.com/:youruser/thirteeneer.git
+
+---
+
+# create an issue/feature branch
+### git checkout -b CoC
+
+---
+
+# add the code of conduct
+### git add .
+
+---
+
+# write a good commit message
+### git commit
+
+---
+
+# good commit messages
+### http://chris.beams.io/posts/git-commit/
+![100%,Bottom](commit.png)
+
+---
+
+![100%,Bottom](commit.png)
+
+---
+
+# push to your repo and branch
+### git push origin CoC
+
+---
+
+# create a pull request
+
+---
+
+# review pull request
+
+---
+
+# merge pull request
+
+---
+
+# create a gitter channel
 
 ---
 
