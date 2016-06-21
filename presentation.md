@@ -1,7 +1,7 @@
 # open source
 
 ### icanhazcommunity?
-#### andrew kuhnhausen - hackbright mar 18th 2016
+#### andrew kuhnhausen - hackbright june 21st 2016
 ##### @kuhnhausen | github.com/trane | blog.errstr.com
 
 ---
@@ -52,6 +52,19 @@
 
 # /me
 
+## off on a new adventure
+
+![](sphinx2.jpg)
+
+* Engineer at ![20%](domino.jpg)
+* dominodatalab.com
+* Domino makes data scientists more productive and facilitates collaborative, reproducible, reusable analysis
+
+
+---
+
+# /me
+
 ## hand waving about post-neo-classical datastructures
 
 ![](me_academic.jpg)
@@ -72,6 +85,12 @@
 * my cat is amazing
 * his name is sphinx
 * he sounds like a new york taxi cab driver when he meows
+
+---
+
+# quick note
+## Scala Bridge Tonight
+### goo.gl/85jpzm
 
 ---
 
@@ -251,7 +270,7 @@ trivial -- who knows who will find it useful
 * write and update documentation
 * improve tests
 * ask questions in irc or gitter
-* attend/host meetups and conferences
+* attend/host meetups and conferences (meetup.com)
 * encourage coworkers and friends
 
 ---
@@ -285,40 +304,53 @@ trivial -- who knows who will find it useful
 
 ## make your code public
 ### (recommend github)
+![80%,left](github.png)
+![80%,right](bitbucket.png)
 
 ---
 
 ## add an oss license
 ### (recommend mit)
+![](stab.jpg)
 
 ---
 
 ## make sure your README is good
 ### (look at other well-regarded libraries)
+![](unicorn_vomit.png)
 
 ---
 
 ## include a code of conduct
 ### (use a community one)
+![](unicorn_icecream.jpg)
 
 ---
 
 ## set up your chat
 ### (gitter and/or irc)
+![100%, left](gitter.png)
 
 ---
 
 ## announce it
 ### (twitter is great for this)
+![](twitter.png)
 
 ---
 
 ## keep working at it
 ### (give talks, sell it, use it)
+![](pensive_unicorn.jpg)
 
 ---
 
 # time to try
+![](unicorn_fire.png)
+
+---
+
+## https://github.com/trane/hbfourteen
 
 ---
 
@@ -327,12 +359,12 @@ trivial -- who knows who will find it useful
 ---
 
 # fork it
-### https://github.com/trane/thirteeneer
+### https://github.com/trane/hbfourteen.git
 
 ---
 
 # clone it
-### git clone https://github.com/:youruser/thirteeneer.git
+### git clone https://github.com/:youruser/hbfourteen.git
 
 ---
 
@@ -378,13 +410,11 @@ trivial -- who knows who will find it useful
 
 ---
 
-# create a gitter channel
-
----
-
 # obrigado
 
 ### @kuhnhausen | github.com/trane | blog.errstr.com
+
+![50%](andrew_weirdo.jpg)
 
 ---
 
